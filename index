@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<style>
+h3{
+text-align: center;
+}
+.img {
+height: auto;
+width: 31rem;
+}
+</style>
+</head>
+<body>
+<h3>This is my git testing page</h3>
+<div align="center"><img src="gitlogo.png" class="img"></div>
+</body>
